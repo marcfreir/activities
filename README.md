@@ -1,1 +1,1 @@
-# ruby_activities
+# activities
